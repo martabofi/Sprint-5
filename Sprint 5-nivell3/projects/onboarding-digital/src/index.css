@@ -1,0 +1,11 @@
+body {
+  position: inherit;
+  margin: 0;
+  display: flex;
+  place-items: center;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  min-height: 100vh;
+  background-color: rgb(240, 240, 240);
+}
